@@ -773,7 +773,7 @@ entries:
     - https://mosip.github.io/mosip-helm/apitestrig-12.0.1-B2.tgz
     version: 12.0.1-B2
   - apiVersion: v2
-    created: "2025-01-15T14:28:36.976495555Z"
+    created: "2025-01-17T10:04:47.12429618Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -781,7 +781,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: A Helm chart to deploy APITESTRIG for MOSIP modules
-    digest: 5e84b73e43a1be6f90942c85fa440ae19e8208528fb0237f6f022641712a5d9d
+    digest: b748f05b80efa7ac8f18b687f8b59240e53ae57c6ed8bad63bfcfa2438ce031f
     home: https://mosip.io
     keywords:
     - mosip
@@ -3766,7 +3766,7 @@ entries:
     version: 17.9.25
   esignet:
   - apiVersion: v2
-    created: "2025-01-15T14:28:36.97972263Z"
+    created: "2025-01-17T10:04:47.127015221Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -3774,7 +3774,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: A Helm chart for MOSIP esignet module
-    digest: b3f7659225c775ae68250c77f5c2d25104754fb73fca6a6b23ddd78bb16b33d8
+    digest: 7bf118c0a82d90a21daed005d2bd97a8fc3a50aa038e7a15c15913da8e78dc75
     home: https://mosip.io
     keywords:
     - mosip
@@ -8469,7 +8469,7 @@ entries:
     - https://mosip.github.io/mosip-helm/oidc-ui-12.0.2.tgz
     version: 12.0.2
   - apiVersion: v2
-    created: "2025-01-15T14:28:36.981636101Z"
+    created: "2025-01-17T10:04:47.128811297Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -8477,7 +8477,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: A Helm chart for MOSIP OIDC UI module
-    digest: b58838d9e1e5bb6d9cf33b86aa21250b9cd76cc7f94119d49fbe49f0a52acf0a
+    digest: 0bdb12c84e4baed564382d0fc9ed39caa459c1d51d5d8a79f049f4a7f5d651d1
     home: https://mosip.io
     keywords:
     - mosip
@@ -18975,4 +18975,4 @@ entries:
     urls:
     - https://mosip.github.io/mosip-helm/websub-consolidator-0.0.1-develop.tgz
     version: 0.0.1-develop
-generated: "2025-01-15T14:38:10.430087712Z"
+generated: "2025-01-17T10:04:47.122332057Z"
